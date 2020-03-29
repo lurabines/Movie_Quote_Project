@@ -1,3 +1,5 @@
 # Movie Quote Project
 
-Random movie quotes from the most popular movies of all time.
+# Random Quote Generator
+
+## For this project I created an app that displays random famous movie quotes each time a button is clicked.
